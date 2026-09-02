@@ -1,0 +1,1 @@
+This folder contains Power BI dashboards and visualizations created to analyze medical data. The objective is to explore trends related to consultations, patients, and medical services based on the data stored in the Data Warehouse.
